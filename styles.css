@@ -16,3 +16,7 @@ body{
   background: white;
   padding: 6%;
 }
+
+.shrink {
+  width: 50%;
+}
